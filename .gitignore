@@ -50,5 +50,4 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
-MoocProgramC/.vscode
-DeepComputerSystem/.vscode
+*.vscode
